@@ -1,0 +1,15 @@
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\mapper\AdminMapper.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\vo\PageResult.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\service\AuthService.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\pojo\Admin.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\config\MybatisPlusConfig.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\controller\AdminController.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\pojo\Permission.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\service\SecurityUserService.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\service\AdminService.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\AdminApp.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\model\params\PageParam.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\mapper\PermissionMapper.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\config\SecurityConfig.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\service\PermissionService.java
+G:\project\myblog\blog-api\blog-admin\src\main\java\com\dzj\blog\admin\vo\Result.java
